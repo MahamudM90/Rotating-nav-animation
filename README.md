@@ -1,2 +1,2 @@
 # Rotating-nav-animation
-This is a Small Websi.
+This is a Small Websit.
