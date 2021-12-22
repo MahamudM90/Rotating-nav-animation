@@ -1,2 +1,2 @@
 # Rotating-nav-animation
-This is a Small Web.
+This is a Small Webs.
