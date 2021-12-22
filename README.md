@@ -1,2 +1,2 @@
 # Rotating-nav-animation
-This is a Small Websit.
+This is a Small Website.
