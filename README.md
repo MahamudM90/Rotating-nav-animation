@@ -1,2 +1,2 @@
 # Rotating-nav-animation
-This is a Small Website of Rota.
+This is a Small Website of Rotat.
