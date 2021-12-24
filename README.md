@@ -1,2 +1,2 @@
 # Rotating-nav-animation
-This is a Small Website of Rotating-nav-animati.
+This is a Small Website of Rotating-nav-animatio.
